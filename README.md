@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 	20.10.26	
 
 # Objective
 
@@ -12,13 +12,13 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1918" height="1156" alt="image" src="https://github.com/user-attachments/assets/8e4516c1-0a53-490a-93a5-61ca973b6587" />
 
 ________________________________________
 # IP Addressing Table (if applicable)
 Device Name	Interface	IP Address	Subnet Mask
-PC0	NIC	192.168.1.2	255.255.255.0
-PC1	NIC	192.168.1.3	255.255.255.0
+PC0	NIC	10.0.0.1	255.255.255.0
+PC1	NIC	10.0.0.2 	255.255.255.0
 Router0	Fa0/0	192.168.1.1	255.255.255.0
 ________________________________________
 # Procedure
@@ -39,8 +39,11 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1918" height="1158" alt="image" src="https://github.com/user-attachments/assets/85eb4e9d-f9e3-4237-9020-b2012e3ab176" />
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/b7daa9f2-e961-4400-a1c2-9a284c5cf524" />
+<img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/260c9387-8511-459d-ab86-0dc00a6db1c1" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
